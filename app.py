@@ -139,11 +139,11 @@ with st.sidebar:
     )
 
     st.markdown(
-        "**LinkedIn:** "
+        "**LinkedIn:** https://www.linkedin.com/in/paul-moretti-/"
     )
 
     st.markdown(
-        "**GitHub:** "
+        "**GitHub:** https://github.com/SangonomiyaMidona/"
     )
 
     st.divider()
