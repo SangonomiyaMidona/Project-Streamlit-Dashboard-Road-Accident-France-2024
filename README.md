@@ -366,8 +366,8 @@ StApp26_20231187_MORETTI_BIO/
 
 ## 12. Project Links
 
-- **GitHub Repository:** To be added
-- **Deployed Streamlit Application:** To be added
+- **GitHub Repository:** (https://github.com/SangonomiyaMidona/Project-Streamlit-Dashboard-Road-Accident-France-2024)
+- **Deployed Streamlit Application:** (https://project-app-dashboard-road-accident-france-2024-3uraj8pkioyjj2.streamlit.app/)
 - **Demo Video:** To be added
 
 ## 13. Conclusion
