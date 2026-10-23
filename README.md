@@ -368,7 +368,7 @@ StApp26_20231187_MORETTI_BIO/
 
 - **GitHub Repository:** (https://github.com/SangonomiyaMidona/Project-Streamlit-Dashboard-Road-Accident-France-2024)
 - **Deployed Streamlit Application:** (https://project-app-dashboard-road-accident-france-2024-3uraj8pkioyjj2.streamlit.app/)
-- **Demo Video:** (https://youtu.be/AIbQGB8jTeM)
+- **Demo Video:** https://youtu.be/1V1s1LxVTjY
 
 ## 13. Conclusion
 
